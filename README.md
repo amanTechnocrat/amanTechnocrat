@@ -12,7 +12,7 @@ to create robust and scalable solutions.
 - Windows Apps: Electron.js
 - Other: Git, Firebase
 
-## 🌱 Currently Learning
+## 🌱 Currently Doing
 I'm always exploring new technologies and keeping up with the latest trends in web, mobile, and desktop development. Currently, I'm employed at an IT firm in Ahmedabad.
 
 ## 📫 Let's Connect!
